@@ -25,3 +25,10 @@ overview of git and branches
 8. git restore
 
 // this restore it to the previous commit in case you made a bad push
+
+//Branches should be used once per task.
+// Once a branch has been merged with the main you should **NEVER** use it again.
+
+1. git branch will show branches and what you are in (press q to quit)
+
+2. git pull will pull all added commits to local projects
